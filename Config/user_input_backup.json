@@ -1,0 +1,20 @@
+{"energy_system_scenario": "business_as_usual", 
+ "freight_demand_scenario": "agricultual_production_shift", 
+ "year": "2025", 
+ "econ_scn": "Low (pessimistic)", 
+ "scen": "Population Shift", 
+ "decab": "Reference/business as usual", 
+ "analy_yr": 2025, 
+ "prcnt": 0.018, 
+ "prcnt_ffc": 0.0, 
+ "prcnt_ffp": 0.0,
+ "tech_fraction": 
+     {
+     "Diesel": 0.05,
+     "BioDie": 0.05,
+     "DieHyb": 0.15,
+     "BioHyb": 0.10,
+     "HydHyb": 0.40,
+     "Bat": 0.25
+     }
+}

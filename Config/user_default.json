@@ -1,0 +1,61 @@
+{
+	"energy_system_scenario": "Reference/business as usual",
+	"econ_scn": "Low (pessimistic)",
+	"freight_demand_scenario": "Population Shift",
+	"year": 2025,
+	"prcnt": 0.018,
+	"prcnt_ffc": 0.25,
+	"prcnt_ffp": 0.25,
+	"param1": 0.0,
+	"param4": 2000,
+	"tech_fraction": {
+		"2025": {
+			"Diesel": 0.5,
+			"Battery": 0.3,
+			"Hydrogen": 0.2,
+			"Diesel Hybrid": 0.0,
+			"Biodiesel": 0.0,
+			"Biodiesel Hybrid": 0.0
+		},
+		"2030": {
+			"Diesel": 0.4,
+			"Battery": 0.4,
+			"Hydrogen": 0.2,
+			"Diesel Hybrid": 0.0,
+			"Biodiesel": 0.0,
+			"Biodiesel Hybrid": 0.0
+		},
+		"2035": {
+			"Diesel": 0.3,
+			"Battery": 0.4,
+			"Hydrogen": 0.2,
+			"Diesel Hybrid": 0.1,
+			"Biodiesel": 0.0,
+			"Biodiesel Hybrid": 0.0
+		},
+		"2040": {
+			"Diesel": 0.1,
+			"Battery": 0.4,
+			"Hydrogen": 0.2,
+			"Diesel Hybrid": 0.1,
+			"Biodiesel": 0.1,
+			"Biodiesel Hybrid": 0.1
+		},
+		"2045": {
+			"Diesel": 0.1,
+			"Battery": 0.4,
+			"Hydrogen": 0.2,
+			"Diesel Hybrid": 0.1,
+			"Biodiesel": 0.1,
+			"Biodiesel Hybrid": 0.1
+		},
+		"2050": {
+			"Diesel": 0.0,
+			"Battery": 0.4,
+			"Hydrogen": 0.4,
+			"Diesel Hybrid": 0.0,
+			"Biodiesel": 0.0,
+			"Biodiesel Hybrid": 0.2
+		}
+	}
+}
